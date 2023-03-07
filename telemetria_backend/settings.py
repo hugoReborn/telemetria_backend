@@ -37,6 +37,17 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'applications.battery_signals',
+    'applications.btms_signals',
+    'applications.bus_signals',
+    'applications.converter_app',
+    'applications.electrical_signals',
+    'applications.engine_signals',
+    'applications.gps_app',
+    'applications.lenze_signals',
+    'applications.other_signals',
+    'applications.status_signals',
+    'applications.technical_info'
 ]
 
 MIDDLEWARE = [
