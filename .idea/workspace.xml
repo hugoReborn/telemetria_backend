@@ -4,9 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d76a5d4-5b71-4986-9df4-8acc4295d950" name="Changes" comment="innit commit&#10;telemetria backend">
+    <list default="true" id="2d76a5d4-5b71-4986-9df4-8acc4295d950" name="Changes" comment="created apps">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/telemetria_backend/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/telemetria_backend/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/battery_signals/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/applications/battery_signals/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/btms_signals/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/applications/btms_signals/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/bus_signals/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/applications/bus_signals/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/electrical_signals/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/applications/electrical_signals/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/engine_signals/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/applications/engine_signals/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/lenze_signals/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/applications/lenze_signals/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/other_signals/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/applications/other_signals/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/status_signals/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/applications/status_signals/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/technical_info/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/applications/technical_info/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,21 +22,31 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2MgRwe62N7zQfWGoxt28D719ex0" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/hugoa/OneDrive/Escritorio/telemetria-backend",
     "node.js.detected.package.eslint": "true",
@@ -70,7 +88,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678187478478</updated>
-      <workItem from="1678187502669" duration="2961000" />
+      <workItem from="1678187502669" duration="5103000" />
     </task>
     <task id="LOCAL-00001" summary="innit commit&#10;telemetria backend">
       <created>1678187626129</created>
@@ -79,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678187626129</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="created apps">
+      <created>1678194680351</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678194680351</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,7 +122,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="innit commit&#10;telemetria backend" />
-    <option name="LAST_COMMIT_MESSAGE" value="innit commit&#10;telemetria backend" />
+    <MESSAGE value="created apps" />
+    <option name="LAST_COMMIT_MESSAGE" value="created apps" />
   </component>
 </project>
