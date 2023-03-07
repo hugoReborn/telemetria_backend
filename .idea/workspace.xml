@@ -4,14 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d76a5d4-5b71-4986-9df4-8acc4295d950" name="Changes" comment="workspace file">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/applications/battery_signals/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/applications/battery_signals/admin.py" afterDir="false" />
-    </list>
+    <list default="true" id="2d76a5d4-5b71-4986-9df4-8acc4295d950" name="Changes" comment="- urls files created&#10;- url patterns ok in every file&#10;- include path for every app ready" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -96,12 +100,12 @@
       <option name="project" value="LOCAL" />
       <updated>1678194680351</updated>
     </task>
-    <task id="LOCAL-00003" summary="workspace file">
-      <created>1678198928375</created>
+    <task id="LOCAL-00003" summary="- urls files created&#10;- url patterns ok in every file&#10;- include path for every app ready">
+      <created>1678198354392</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1678198928375</updated>
+      <updated>1678198354392</updated>
     </task>
     <option name="localTasksCounter" value="4" />
     <servers />
@@ -124,7 +128,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="innit commit&#10;telemetria backend" />
     <MESSAGE value="created apps" />
-    <MESSAGE value="workspace file" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace file" />
+    <MESSAGE value="- urls files created&#10;- url patterns ok in every file&#10;- include path for every app ready" />
+    <option name="LAST_COMMIT_MESSAGE" value="- urls files created&#10;- url patterns ok in every file&#10;- include path for every app ready" />
   </component>
 </project>
