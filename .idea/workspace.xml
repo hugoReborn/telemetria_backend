@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d76a5d4-5b71-4986-9df4-8acc4295d950" name="Changes" comment="- urls files created&#10;- url patterns ok in every file&#10;- include path for every app ready">
+    <list default="true" id="2d76a5d4-5b71-4986-9df4-8acc4295d950" name="Changes" comment="admin register&#10;- battery models&#10;- btms models&#10;- bus&#10;- electric models&#10;- engine&#10;- lenze&#10;- other&#10;- status&#10;- technical">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/applications/battery_signals/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/applications/battery_signals/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/applications/btms_signals/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/applications/btms_signals/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/applications/bus_signals/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/applications/bus_signals/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/applications/electrical_signals/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/applications/electrical_signals/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/applications/engine_signals/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/applications/engine_signals/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/applications/lenze_signals/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/applications/lenze_signals/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/applications/other_signals/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/applications/other_signals/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/applications/status_signals/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/applications/status_signals/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/applications/technical_info/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/applications/technical_info/admin.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678198354392</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="admin register&#10;- battery models&#10;- btms models&#10;- bus&#10;- electric models&#10;- engine&#10;- lenze&#10;- other&#10;- status&#10;- technical">
+      <created>1678213655242</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678213655242</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +138,7 @@
     <MESSAGE value="innit commit&#10;telemetria backend" />
     <MESSAGE value="created apps" />
     <MESSAGE value="- urls files created&#10;- url patterns ok in every file&#10;- include path for every app ready" />
-    <option name="LAST_COMMIT_MESSAGE" value="- urls files created&#10;- url patterns ok in every file&#10;- include path for every app ready" />
+    <MESSAGE value="admin register&#10;- battery models&#10;- btms models&#10;- bus&#10;- electric models&#10;- engine&#10;- lenze&#10;- other&#10;- status&#10;- technical" />
+    <option name="LAST_COMMIT_MESSAGE" value="admin register&#10;- battery models&#10;- btms models&#10;- bus&#10;- electric models&#10;- engine&#10;- lenze&#10;- other&#10;- status&#10;- technical" />
   </component>
 </project>
