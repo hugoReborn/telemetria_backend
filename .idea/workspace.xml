@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d76a5d4-5b71-4986-9df4-8acc4295d950" name="Changes" comment="- urls files created&#10;- url patterns ok in every file&#10;- include path for every app ready" />
+    <list default="true" id="2d76a5d4-5b71-4986-9df4-8acc4295d950" name="Changes" comment="fix battery register">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +18,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/feature" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -107,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678198354392</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fix battery register">
+      <created>1678214237748</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678214237748</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +141,7 @@
     <MESSAGE value="innit commit&#10;telemetria backend" />
     <MESSAGE value="created apps" />
     <MESSAGE value="- urls files created&#10;- url patterns ok in every file&#10;- include path for every app ready" />
-    <option name="LAST_COMMIT_MESSAGE" value="- urls files created&#10;- url patterns ok in every file&#10;- include path for every app ready" />
+    <MESSAGE value="fix battery register" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix battery register" />
   </component>
 </project>
