@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d76a5d4-5b71-4986-9df4-8acc4295d950" name="Changes" comment="created apps" />
+    <list default="true" id="2d76a5d4-5b71-4986-9df4-8acc4295d950" name="Changes" comment="all models created note">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="feature" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -93,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678194680351</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="all models created note">
+      <created>1678197181271</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678197181271</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +126,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="innit commit&#10;telemetria backend" />
     <MESSAGE value="created apps" />
-    <option name="LAST_COMMIT_MESSAGE" value="created apps" />
+    <MESSAGE value="all models created note" />
+    <option name="LAST_COMMIT_MESSAGE" value="all models created note" />
   </component>
 </project>
